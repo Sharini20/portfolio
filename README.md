@@ -16,7 +16,7 @@ A passionate and results-driven Full Stack Java Developer specializing in cloud-
 
 
 ## 💼Work Experience
-**Full Stack Java Developer @ Samsung Research America, California(_Jan 2023 – Present_)**
+**Full Stack Java Developer @ Samsung Research America, California(_Jan 2024 – Present_)**
 I optimized React applications for Samsung platforms, reducing page load times by 30% using techniques like memoization, lazy loading, and SSR, specifically for Samsung devices and Tizen OS. I developed custom React Hooks, integrated Microservices architecture, and utilized Redux for efficient state management. My work also involved building data visualization dashboards with Vue.js, ensuring code quality through Jest, Enzyme, and Cypress, and implementing secure backend services with Java 11, DropWizard, and Apache Kafka. Additionally, I managed DB2 databases, designed RESTful APIs with Spring Boot, and implemented scalable cloud solutions using AWS and GCP.
 
 **Full Stack Java Developer @ First Tech Federal Credit Union, California (_Oct 2022 – Dec 2023_)**
